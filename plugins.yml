@@ -1,0 +1,10 @@
+---
+version: '1'
+updated: '2017-03-09'
+plugins:
+  - name: testplugin
+    url: ftp://mango.jayte.fr/scalr-plugins/testplugin.zip
+    archive-type: zip
+  - name: testplugin2
+    url: ftp://mango.jayte.fr/scalr-plugins/testplugin.zip
+    archive-type: zip
